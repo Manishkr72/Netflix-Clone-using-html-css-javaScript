@@ -1,4 +1,5 @@
 Netflix Clone
+
 Welcome to the Netflix clone website, a fun project built using JavaScript! This website allows users to browse and watch movies and TV shows, just like the real Netflix.
 
 About:-
